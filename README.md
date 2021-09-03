@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @trsaints
+- 👀 I’m interested in learning how to become a Dev
+- 🌱 I’m currently learning HTML5
