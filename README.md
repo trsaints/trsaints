@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @trsaints;
-- 👀 I’m interested in learning how to become a professional Web Dev;
-- 🌱 I’m currently learning Front-End Web Development;
+- 👀 I’m learning how to become a professional Web Dev;
+- 🌱 I’m currently learning Back-End Web Development;
