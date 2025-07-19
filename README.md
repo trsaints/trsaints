@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @trsaints;
-- 👀 I’m learning how to become a professional Web Dev;
-- 🌱 I’m currently learning Back-End Web Development;
+![Trsaints's GitHub stats](https://github-readme-stats.vercel.app/api?username=trsaints&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&=show_icons=true&theme=dracula)
