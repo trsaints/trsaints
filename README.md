@@ -9,8 +9,6 @@
 [![Email](https://img.shields.io/badge/Email-thiago.dev2k3%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thiago.dev2k3@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-trsaints2003-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/trsaints2003/)
 [![GitHub](https://img.shields.io/badge/GitHub-trsaints-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/trsaints)
-[![Portfolio](https://img.shields.io/badge/Portfolio-trsantos.tech-0EA5E9?style=flat-square&logo=googlechrome&logoColor=white)](https://trsantos.tech)
-[![Phone](https://img.shields.io/badge/Phone-%2B55%2061%2098193--6741-25D366?style=flat-square&logo=whatsapp&logoColor=white)](tel:+5561981936741)
 
 </div>
 
