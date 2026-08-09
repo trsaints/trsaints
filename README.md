@@ -5,8 +5,9 @@ I am a passinate programmer aiming to provide modern solutions that aggregate in
 > Computer Science Major (60%) 👨‍🎓
 
 I've been diving this tech universe since october/2021, aiming to become an expert of:
-- C#/.NET Core Development;
-- DevOps/SRE culture;
+- C#/.NET Fullstack Development;
+- DevOps culture;
+- Site Reliability Engineering (SRE);
 - Software Architecture;
 - Software Design;
 
