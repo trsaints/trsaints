@@ -1,9 +1,8 @@
 # Thiago Rodrigues - Software Developer
 
 I am a passinate programmer aiming to provide modern solutions that aggregate intelligence to digitalized and information processes.
-Founder of the [Os Derivados](https://github.com/Os-Derivados) initiative, a brazilian community for .NET development.
 
-> Computer Science 4/8 👨‍🎓
+> Computer Science Major (60%) 👨‍🎓
 
 I've been diving this tech universe since october/2021, aiming to become an expert of:
 - C#/.NET Core Development;
