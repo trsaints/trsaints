@@ -13,5 +13,5 @@ I've been diving this tech universe since october/2021, aiming to become an expe
 
 ## My statistics
 
-![Trsaints's GitHub stats](https://github-readme-stats.vercel.app/api?username=trsaints&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&=show_icons=true&theme=dracula)
-![Trsaint's most used programming languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trsaints&layout=compact&langs_count=6&theme=dracula)
+![Top Languages](https://ghstats.dev/api/langs?username=trsaints&theme=dracula)
+![GitHub Stats Card](https://ghstats.dev/api/card?username=trsaints&theme=dracula&show_ring=false&hide_title=true)
